@@ -270,24 +270,7 @@ if __name__ == '__main__':
 ### Example Output
 
 ```
-PRHOTELS DATA:
-HotelName:H1  Room Available:4  Location:Bangalore  Rating:5  PricePer Room:100
-HotelName:H2  Room Available:5  Location:Bangalore  Rating:5  PricePer Room:200
-HotelName:H3  Room Available:6  Location:Mumbai  Rating:3  PricePer Room:100
-
-SORT BY NAME:
-PRHOTELS DATA:
-HotelName:H1  Room Available:4  Location:Bangalore  Rating:5  PricePer Room:100
-HotelName:H2  Room Available:5  Location:Bangalore  Rating:5  PricePer Room:200
-HotelName:H3  Room Available:6  Location:Mumbai  Rating:3  PricePer Room:100
-
-SORT BY A RATING:
-PRHOTELS DATA:
-HotelName``
-
 ## Example Output
-
-```
 PRHOTELS DATA:
 HotelName:H1  Room Available:4  Location:Bangalore  Rating:5  PricePer Room:100
 HotelName:H2  Room Available:5  Location:Bangalore  Rating:5  PricePer Room:200
@@ -319,6 +302,3 @@ HotelName:H3  Room Available:6  Location:Mumbai  Rating:3  PricePer Room:100
 UserName:U1  UserId:2  Booking Cost:1000  Hotel name: H1
 UserName:U2  UserId:3  Booking Cost:1200  Hotel name: H2
 UserName:U3  UserId:4  Booking Cost:1100  Hotel name: H3
-```
-
----
